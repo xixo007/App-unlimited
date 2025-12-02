@@ -6,24 +6,19 @@
     "orientation": "portrait",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
-    "splash": {
-      "resizeMode": "contain",
-      "backgroundColor": "#4F46E5"
-    },
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.appunlimited.app"
     },
     "android": {
-      "adaptiveIcon": {
-        "backgroundColor": "#4F46E5"
-      },
       "package": "com.appunlimited.app"
     },
     "web": {
       "bundler": "metro"
     },
     "scheme": "appunlimited",
-    "plugins": ["expo-router"]
+    "plugins": [
+      "expo-router"
+    ]
   }
 }
