@@ -2,23 +2,6 @@
   "expo": {
     "name": "APP-UNLIMITED",
     "slug": "app-unlimited",
-    "version": "1.0.0",
-    "orientation": "portrait",
-    "userInterfaceStyle": "light",
-    "newArchEnabled": true,
-    "ios": {
-      "supportsTablet": true,
-      "bundleIdentifier": "com.appunlimited.app"
-    },
-    "android": {
-      "package": "com.appunlimited.app"
-    },
-    "web": {
-      "bundler": "metro"
-    },
-    "scheme": "appunlimited",
-    "plugins": [
-      "expo-router"
-    ]
+    "version": "1.0.0"
   }
 }
